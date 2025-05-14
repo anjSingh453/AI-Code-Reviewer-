@@ -25,7 +25,7 @@ function App() {
     console.log("Requesting review for the code:", code);
 
     try {
-      const response = await axios.post("http://localhost:3000/ai/get-review/", { code });
+      const response = await axios.post("https://ai-code-reviewer-60rn.onrender.com/ai/get-review/", { code });
 
       console.log("API Response:", response);
 
