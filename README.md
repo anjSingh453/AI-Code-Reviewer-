@@ -70,7 +70,8 @@ http://localhost:8000
 ---
 
 ## 📸 Application Preview
- 
+ ![image alt](https://github.com/anjSingh453/AI-Code-Reviewer-/blob/main/Samples/code.png?raw=true)
+ ![image alt](https://github.com/anjSingh453/AI-Code-Reviewer-/blob/main/Samples/code%20reviwer.png?raw=true)
 
 ---
 
